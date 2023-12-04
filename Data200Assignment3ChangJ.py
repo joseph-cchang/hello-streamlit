@@ -6,7 +6,6 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-from sklearn.linear_model import LinearRegression
 import numpy as np
 
 salary = pd.read_csv("Salary.csv")
